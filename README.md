@@ -10,7 +10,7 @@
 ---
 
 I engineer scalable web and mobile ecosystems, bridging the gap between robust backend architecture and interactive frontend design.
-🚀 **Explore my work:** [My Portfolio Website](https://jit-portfolio-rosy.vercel.app/)
+🚀 **Explore my work:** [My Portfolio Website](https://jit-portfolio-opal.vercel.app/)
 
 ---
 
@@ -49,7 +49,7 @@ I believe in choosing the right tool for the job. Here is a breakdown of the tec
 ---
 
 ### 🤝 Let's Connect!
-- **Portfolio Website:** [jit-portfolio-rosy.vercel.app](https://jit-portfolio-rosy.vercel.app/)
+- **Portfolio Website:** [jit-portfolio-rosy.vercel.app](https://jit-portfolio-opal.vercel.app/)
 - **Email:** `maitidebjit2@.com` *(Feel free to update this)*
 
 *"Clean code, robust architecture, and building things that make an impact."*
