@@ -54,5 +54,4 @@ I believe in choosing the right tool for the job. Here is a breakdown of the tec
 - **Email:** `maitidebjit2@.com` *(Feel free to update this)*
 
 *"Clean code, robust architecture, and building things that make an impact."*
-```bash
-pip install Pillow
+
