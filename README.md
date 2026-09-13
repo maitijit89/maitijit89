@@ -21,22 +21,22 @@ I believe in choosing the right tool for the job. Here is a breakdown of the tec
 
 #### 🌐 Frontend & Mobile Development
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,flutter" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,flutter" />
 </a>
 
 #### ⚙️ Backend & Frameworks
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,go,spring,py,php" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
 </a>
 
 #### 🗄️ Databases & Caching
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" />
 </a>
 
 #### ☁️ DevOps, Cloud & BaaS
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,firebase,supabase,git" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,git" />
 </a>
 
 ---
